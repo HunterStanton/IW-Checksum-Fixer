@@ -7,8 +7,8 @@
     <ProjectGuid>{AE9204EA-382E-45BD-B07F-57890F0CB821}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>IWSavegameFixer</RootNamespace>
-    <AssemblyName>IWSavegameFixer</AssemblyName>
+    <RootNamespace>IWChecksumFixer</RootNamespace>
+    <AssemblyName>IWChecksumFixer</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
